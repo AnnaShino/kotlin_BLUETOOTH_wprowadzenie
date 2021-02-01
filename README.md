@@ -13,7 +13,9 @@ W plikach repozytorium dostępna gotowa aplikacja, a poniżej kilka screenów z 
   
   
 <figure class="video_container">
-  <iframe src="https://github.com/AnnaShino/kotlin_BLUETOOTH_wprowadzenie/blob/main/dzia%C5%82anie.mp4" frameborder="0" allowfullscreen="true"> </iframe>
+  <video controls="true" allowfullscreen="true" poster="https://github.com/AnnaShino/kotlin_BLUETOOTH_wprowadzenie/blob/main/obraz3.jpg">
+    <source src="https://github.com/AnnaShino/kotlin_BLUETOOTH_wprowadzenie/blob/main/dzia%C5%82anie.mp4" type="video/mp4">
+  </video>
 </figure>
   
   
