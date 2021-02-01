@@ -15,6 +15,8 @@ Szybkie zapoznanie się z działaniem (video) - [KLIK](https://github.com/AnnaSh
   
 ![screen](https://github.com/AnnaShino/kotlin_BLUETOOTH_wprowadzenie/blob/main/obraz1.jpg =100x200)
   
+<img src="https://github.com/AnnaShino/kotlin_BLUETOOTH_wprowadzenie/blob/main/obraz1.jpg" width="200" height="200" />
+  
 <img src="https://github.com/AnnaShino/kotlin_BLUETOOTH_wprowadzenie/blob/main/obraz2.jpg" width="200">
 
 # Przydatne linki
