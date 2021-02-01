@@ -13,7 +13,7 @@ W plikach repozytorium dostępna gotowa aplikacja, a poniżej kilka screen z apl
   
 Szybkie zapoznanie się z działaniem (video) - [KLIK](https://github.com/AnnaShino/kotlin_BLUETOOTH_wprowadzenie/blob/main/dzia%C5%82anie.mp4)
   
-![instalacja](https://github.com/AnnaShino/kotlin_BLUETOOTH_wprowadzenie/blob/main/obraz1.jpg) ![screen1](https://github.com/AnnaShino/kotlin_BLUETOOTH_wprowadzenie/blob/main/obraz2.jpg)
+![instalacja](https://github.com/AnnaShino/kotlin_BLUETOOTH_wprowadzenie/blob/main/obraz1.jpg =100x20) ![screen1](https://github.com/AnnaShino/kotlin_BLUETOOTH_wprowadzenie/blob/main/obraz2.jpg =100x20)
 
 # Przydatne linki
 Przy tworzeniu pomogły mi poniższe linki:
