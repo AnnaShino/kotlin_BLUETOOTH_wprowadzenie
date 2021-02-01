@@ -11,9 +11,11 @@ Cały program opiera się na modyfikacji trzech plików:
 # Dla osób które chciałyby przetestować aplikację
 W plikach repozytorium dostępna gotowa aplikacja, a poniżej kilka screenów z aplikacji.
 
+
 <figure class="video_container">
   <iframe src="https://github.com/AnnaShino/kotlin_BLUETOOTH_wprowadzenie/blob/main/dzia%C5%82anie.mp4" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
+
 
 ![instalacja](https://github.com/AnnaShino/kotlin_BLUETOOTH_wprowadzenie/blob/main/obraz1.jpg)
 ![screen1](https://github.com/AnnaShino/kotlin_BLUETOOTH_wprowadzenie/blob/main/obraz2.jpg)
