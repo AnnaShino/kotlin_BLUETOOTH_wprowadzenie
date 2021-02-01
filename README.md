@@ -23,6 +23,6 @@ W plikach repozytorium dostępna gotowa aplikacja, a poniżej kilka screenów z 
 
 # Przydatne linki
 Przy tworzeniu pomogły mi poniższe linki:
-*[Bluetooth Example](https://devofandroid.blogspot.com/2018/07/bluetooth-example.html)
-*[BluetoothAdapter](https://developer.android.com/reference/kotlin/android/bluetooth/BluetoothAdapter)
-*[Bluetooth Kotlin – Android Studio Tutorial](https://www.youtube.com/watch?v=PtN6UTIu7yw)
+* [Bluetooth Example](https://devofandroid.blogspot.com/2018/07/bluetooth-example.html)
+* [BluetoothAdapter](https://developer.android.com/reference/kotlin/android/bluetooth/BluetoothAdapter)
+* [Bluetooth Kotlin – Android Studio Tutorial](https://www.youtube.com/watch?v=PtN6UTIu7yw)
